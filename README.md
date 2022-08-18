@@ -17,6 +17,12 @@ https://kosmonaut3173.github.io/03-pw-generator/
 
 <img src="./assets/pw-generator-output.png" alt="12 character password, only numbers and symbols">
 
+
+## Credits
+
+idea if where to even begin, thank you:
+Tomas Diaz https://github.com/tomasdiaz83
+
 ## License
 MIT License
 
