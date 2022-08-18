@@ -13,10 +13,12 @@ ACTIONS:
 
 ## DEMO
 
-https://kosmonaut3173.github.io/03-pw-generator/
+<a href="https://kosmonaut3173.github.io/03-pw-generator/" target="_blank">https://kosmonaut3173.github.io/03-pw-generator/</a>
 
-<img src="./assets/pw-generator-output.png" alt="12 character password, only numbers and symbols">
-
+<figure>
+  <img src="./assets/pw-generator-output.png" alt="12 character password, only numbers and special characters">
+  <figcaption>12 character password, only numbers and special characters</figcaption>
+</figure>
 
 ## Credits
 
