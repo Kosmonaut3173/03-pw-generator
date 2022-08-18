@@ -1,4 +1,4 @@
-# Challenge-3
+# Week 3 Challenge
 
 ## 03 JavaScript: Password Generator
 
